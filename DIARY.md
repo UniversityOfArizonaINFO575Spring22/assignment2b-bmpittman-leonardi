@@ -11,6 +11,16 @@ attempted to understand boilerplate but I had already connected my local repo an
 project committed to github <br>
 session end <br><br>
 
+04/12/2022: <br>
+session start <br>
+navigation outlined <br>
+several images compiled <br>
+some text written <br>
+style sheet started <br>
+cb.html se.html me.html created <br>
+project committed to github <br>
+session end <br><br>
+
 04/--/2022: <br>
 session start <br>
 
