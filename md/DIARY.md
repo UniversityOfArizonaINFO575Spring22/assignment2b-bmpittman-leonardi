@@ -21,6 +21,16 @@ cb.html se.html me.html created <br>
 project committed to github <br>
 session end <br><br>
 
+04/28/2022: <br>
+session start <br>
+changed cb to rtd because I wanted to try some javascript <br>
+linked all pages together/linked rtd.html to java.js <br>
+made a random number generator for dice rolls with javascript <br>
+javascript is really hard, but I think it was worth it <br>
+added a few images and some formatting <br>
+project committed to github <br>
+session end <br><br>
+
 04/--/2022: <br>
 session start <br>
 

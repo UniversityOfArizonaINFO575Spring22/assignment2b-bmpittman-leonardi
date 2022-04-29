@@ -1,0 +1,68 @@
+/* Navigation */
+.navigation {
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #161616;
+    overflow: auto;
+    padding: 18px 50px;
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+li.navlist {
+    color: #000000;
+    display: inline-block;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 20px 18px 10px 18px;
+    text-transform: uppercase;
+}
+
+/* Home Page */
+#homePage {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 20px 18px 10px 18px;
+}
+
+/* Spell Encyclopedia */
+#spellPage {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 20px 18px 10px 18px;
+}
+
+/* Monster Encyclopedia */
+#monsterPage {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 20px 18px 10px 18px;
+}
+
+/* Roll the Dice */
+#rollDicePage {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 20px 18px 10px 18px;
+}
