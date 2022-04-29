@@ -46,7 +46,7 @@ function doFunction6(){
 /* d4 */
 function Random4() {
 
-    return Math.floor(Math.random() * 4 + 1);
+    return Math.floor(Math.random() * 4);
 }
 function doFunction4(){
     document.getElementById('tbFour').value = Random4()
